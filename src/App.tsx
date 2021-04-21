@@ -1,6 +1,6 @@
 import { Component } from "react";
 // import DecoratorsExample from "./components/DecoratorsExample";
-import Podcast from "./components/Podcast";
+import Podcast from "./components/podcast/podcast.component";
 
 class App extends Component {
   render() {
